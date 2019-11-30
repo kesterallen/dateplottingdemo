@@ -7,3 +7,5 @@ Setup:
 Run:
     python darrell_demo.py                                    
 
+Results:
+<img src="https://raw.githubusercontent.com/kesterallen/dateplottingdemo/master/darrell_demo.png"/>
