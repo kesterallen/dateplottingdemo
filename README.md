@@ -11,4 +11,4 @@
 
 **Results**
 
-https://raw.githubusercontent.com/kesterallen/dateplottingdemo/master/darrell_demo.png
+<img src="https://raw.githubusercontent.com/kesterallen/dateplottingdemo/master/darrell_demo.png"/>
